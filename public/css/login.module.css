@@ -1,0 +1,505 @@
+.loginBox {
+    max-width: 500px;
+    width: 100%;
+    background: #2C2C3A;
+    padding: 30px;
+    margin:0 auto;
+    border-radius: 10px;
+    margin-bottom: 15px;
+  }
+
+  .loginArea {
+    width: 100%;
+    position: relative;
+    padding: 70px 0px;
+  }
+  
+  .loginArea .loginInfo p {
+    font-size: 14px;
+    font-weight: 400;
+  }
+  
+  .container{
+    max-width: 1550px;
+  }
+  
+  .align-items-end{
+    align-items: flex-end !important;
+  }
+  
+  .align-items-center{
+    align-items: center !important;
+  }
+  
+  .loginArea .loginInfo {
+    width: 100%;
+    position: relative;
+  }
+  
+  .loginOrArea {
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: 40px 0 20px;
+  }
+  
+  .loginArea .loginInfo {
+    width: 100%;
+    position: relative;
+  }
+  
+  .loginPlatforms {
+    width: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  } 
+  
+  .formGroup {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    font-size: 12px;
+  
+  }
+  
+    .formLabel{
+      font-size: 12px;
+  
+  
+  
+  
+    }
+  
+  
+  
+  
+    
+  
+  
+  .formControl {
+    width: 100% !important;
+    position: relative;
+    background: #111118;
+    border: 2px solid #333444;
+    font-size: 16px;
+    color: #fff;
+    padding: 7px 15px !important;
+    border-radius: 5px !important;
+    -moz-appearance: textfield;
+    z-index: 1;
+    margin-bottom: 30px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  
+  .passwordArea {
+    width: 100%;
+    position: relative;
+    font-size: 16px;
+    height: 50px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+  }
+  
+  .passwordArea .passwordToggleButton {
+    width: 26px;
+    height: 26px;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #181820;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #80f1b1;
+    text-decoration: none;
+  
+  }
+  
+  .optionLabel {
+   
+    position: relative;
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    color: #c8c9d8;
+    cursor: pointer;
+  }
+  
+  .optionInput {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    position: relative;
+    height: 20px;
+    width: 20px;
+    transition: all .15s ease-out 0s;
+    background: #111117;
+    border: 2px solid #333444;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    margin-right: .5rem;
+    outline: none;
+  }
+  
+  .optionInput:checked {
+    background: #343891;
+  
+  }
+  
+  .siteButton2 {
+      width: 100%;
+      text-align: center;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      padding: 12px 25px;
+      background: #343891;
+      border: none;
+      font-size: 14px;
+      font-weight: 500;
+      color: #fff;
+      border-radius: 5px;
+      text-decoration: none;
+      line-height: 1;
+      clip-path: polygon(100% 0%, 100% 100%, 15px 100%, 0% 25px, 0% 0%);
+      transition: all .2s;
+  }
+  
+  .loginInfo h2 {
+    font-size: 35px;
+    font-weight: 800;
+    color: #80f1b1;
+    margin: 0 0 20px;
+    line-height: 1.4;
+    letter-spacing: 2px;
+  }
+  
+  .loginInfo p a {
+    font-weight: 700;
+      color: #80f1b1;
+  }
+  
+  
+  .align-items-center {
+    align-items: center !important;
+  }
+  
+  
+  
+  .loginTitle{
+   margin:0 auto;
+   font-size: 20px;
+   font-weight: 600;
+  
+  }
+  
+  #horizontal-line {
+    width: 40%;
+    height: 2px;
+    background-color: #15151B;
+    position: relative;
+    margin: 0 auto;
+    margin-bottom: 24px;
+  }
+  
+  .betweenBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .optionLabel {
+    margin-bottom: 20px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    color: var(--textColor);
+    cursor: pointer
+  }
+  
+  .optionLabel.block {
+    background: var(--cardBackground);
+    border-radius: 3px;
+    padding: 8px 10px;
+    font-size: 14px
+  }
+  
+  .optionLabel.block .betweenLabel {
+    width: calc(100% - 30px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+  }
+  
+  @media(max-width: 576px) {
+    .optionLabel.block .betweenLabel {
+        flex-direction:column;
+        align-items: flex-start
+    }
+  }
+  
+  .optionLabel.block .optionInput {
+    margin: 0
+  }
+  
+  .optionLabel.between {
+    justify-content: space-between
+  }
+  
+  .optionLabel .optionInput {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    position: relative;
+    height: 20px;
+    width: 20px;
+    transition: all .15s ease-out 0s;
+    background: var(--backgroundDark);
+    border: 2px solid var(--borderColor);
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    margin-right: .5rem;
+    outline: none
+  }
+  
+  body.light .optionLabel .optionInput {
+    border-color: #bdbdbd
+  }
+  
+  .mini.optionLabel .optionInput {
+    width: 15px;
+    height: 15px
+  }
+  
+  .optionLabel .optionInput.required {
+    border-color: #c3141b;
+    animation-duration: 1s;
+    animation-name: liveEffect;
+    transition: all .5s;
+    animation-iteration-count: infinite
+  }
+  
+  .optionLabel .optionInput:hover {
+    background: var(--cardBackgroundLight)
+  }
+  
+  .optionLabel .optionInput:checked {
+    background: #343891
+  }
+  
+  .optionLabel .optionInput:checked:before {
+    width: 16px;
+    height: 16px;
+    content: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNScgaGVpZ2h0PScxNScgZmlsbD0nI2ZmZmZmZicgY2xhc3M9J2JpIGJpLWNoZWNrLWxnJyB2aWV3Qm94PScwIDAgMTYgMTYnPjxwYXRoIGQ9J00xMi43MzYgMy45N2EuNzMzLjczMyAwIDAgMSAxLjA0NyAwYy4yODYuMjg5LjI5Ljc1Ni4wMSAxLjA1TDcuODggMTIuMDFhLjczMy43MzMgMCAwIDEtMS4wNjUuMDJMMy4yMTcgOC4zODRhLjc1Ny43NTcgMCAwIDEgMC0xLjA2LjczMy43MzMgMCAwIDEgMS4wNDcgMGwzLjA1MiAzLjA5MyA1LjQtNi40MjVhLjI0Ny4yNDcgMCAwIDEgLjAyLS4wMjJaJy8+PC9zdmc+);
+    position: absolute;
+    top: 0;
+    left: 0
+  }
+  
+  .mini.optionLabel .optionInput:checked:before {
+    width: 10px;
+    height: 10px;
+    top: -3px;
+    content: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCcgZmlsbD0nI2ZmZmZmZicgY2xhc3M9J2JpIGJpLWNoZWNrLWxnJyB2aWV3Qm94PScwIDAgMTYgMTYnPjxwYXRoIGQ9J00xMi43MzYgMy45N2EuNzMzLjczMyAwIDAgMSAxLjA0NyAwYy4yODYuMjg5LjI5Ljc1Ni4wMSAxLjA1TDcuODggMTIuMDFhLjczMy43MzMgMCAwIDEtMS4wNjUuMDJMMy4yMTcgOC4zODRhLjc1Ny43NTcgMCAwIDEgMC0xLjA2LjczMy43MzMgMCAwIDEgMS4wNDcgMGwzLjA1MiAzLjA5MyA1LjQtNi40MjVhLjI0Ny4yNDcgMCAwIDEgLjAyLS4wMjJaJy8+PC9zdmc+)
+  }
+  
+  .optionLabel .optionInput:checked:after {
+    -webkit-animation: click-wave .65s;
+    -moz-animation: click-wave .65s;
+    animation: click-wave .65s;
+    background: #343891;
+    content: "";
+    display: block;
+    position: relative;
+    z-index: 100
+  }
+  
+  .radio.optionLabel .optionInput:checked:after {
+    border-radius: 50%
+  }
+  
+  .mini.optionLabel .optionInput:checked:after {
+    -webkit-animation: click-wave-mini .65s;
+    -moz-animation: click-wave-mini .65s;
+    animation: click-wave-mini .65s
+  }
+  
+  .radio.optionLabel .optionInput {
+    border-radius: 50%
+  }
+  
+  .optionLabel strong {
+    color: var(--darkGreen)
+  }
+  
+  @keyframes click-wave {
+    0% {
+        height: 20px;
+        width: 20px;
+        opacity: .35;
+        position: relative
+    }
+  
+    100% {
+        height: 40px;
+        width: 40px;
+        margin-left: -14px;
+        margin-top: -14px;
+        opacity: 0
+    }
+  }
+  
+  @keyframes click-wave-mini {
+    0% {
+        height: 15px;
+        width: 15px;
+        opacity: .35;
+        position: relative
+    }
+  
+    100% {
+        height: 30px;
+        width: 30px;
+        margin-left: -10px;
+        margin-top: -10px;
+        opacity: 0
+    }
+  }
+     .loginA {
+      margin-bottom: 20px;
+      color: #80f1b1;
+      text-decoration: underline;
+      position: relative;
+      display: flex;
+      align-items: center;
+      font-size: 12px;
+      cursor: pointer
+      
+     }
+  
+     .loginA:hover {
+      color: #4cac76;
+     }
+  
+     .loginButton{
+      width: 100%;
+      margin-bottom: 30px;
+      text-align: center;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      padding: 12px 25px;
+      background: #343891;
+      border: none;
+      font-size: 14px;
+      font-weight: 500;
+      color: #fff;
+      text-decoration: none;
+      line-height: 1;
+      transition: all .2s;
+      
+     }
+  
+     #horizontal-line2 {
+      width: 40%;
+      height: 2px;
+      background-color: #15151B;
+      position: relative;
+      margin: 0 auto;
+  
+    }
+  
+    #horizontal-line3 {
+      width: 40%;
+      height: 2px;
+      background-color: #15151B;
+      position: relative;
+      margin: right;
+    }
+  
+   .loginBreaker {
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+   }
+  
+   .loginBreaker::before {
+    content: "";
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    left: 0;
+    top: calc(50% - 1px);
+    background: #15151B;
+   }
+  
+   .loginBreaker h4{
+    position: relative;
+    background: #2C2C3A;
+    display: inline-block;
+    padding: 5px 20px;
+   }
+  
+   .otherLoginWrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+   }
+  
+   .othLogin {
+    width: calc(50% - 10px);
+    margin-bottom: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 25px;
+    background: #272834;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    text-decoration: none;
+    line-height: 1;
+    transition: all .2s;
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.25);
+   }
+
+   .undertxt {
+    text-align: center;
+    align-items: center;
+    font-size: 12px;
+   }
+
+   .undertxt a {
+    text-align: center;
+    align-items: center;
+    margin-bottom: 20px;
+    color: #80f1b1;
+    text-decoration: underline;
+    font-size: 12px;
+    cursor: pointer
+   }
