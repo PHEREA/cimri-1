@@ -516,3 +516,138 @@ input:checked + .slider:before {
   padding-left: 150px;
   padding-right: 150px;
  }
+
+ /* favorites page */
+
+ .favbox{
+  max-width:700px;
+  width: 100%;
+  background: #2C2C3A;
+  margin:0 auto;
+  margin-bottom: 15px;
+  padding: 5px 10px 5px 10px;
+ }
+
+ #anadiv {
+  width: 100%;
+  background: #2C2C3A;
+  position: relative;
+}
+.productWrapper {
+  width: 100%;
+  position: relative;
+  height: 120px;
+  padding: 10px;
+  border: 2px solid #4cac76;
+}
+
+.productListWrapper {
+  width: 100%;
+  position: relative;
+}
+
+.productListImageWrapper {  
+  width: 100%;
+  position: relative;
+  border-bottom: 2px solid #248A50;
+
+}
+
+.productListImage {
+  max-width: 70%;
+  object-fit: cover; 
+  align-items: center;
+  position: relative;
+  justify-content: center;
+  display: flex;
+}
+
+.productListFavButtonIcon{
+  width: 20px;
+  top: 0px;
+  right: 0px;
+  position: absolute;
+
+}
+
+.productListInfo {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.productListInfoPrice{
+  width: 100%;
+  position: relative;
+  margin: 0;
+  
+}
+
+.productListButton {
+  width: 100px;
+  height: 10px;
+  font-size: 2px;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-weight: 100;
+  font-size: 10px;
+  margin: 0;
+  background-color: #c4e6c3;
+  color: #333;
+  border: 1px solid #8dbf8d;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: flex; 
+  padding: 10px 0;
+  text-align: center;
+}
+
+.productListPriceWrapper{
+ width: 100%;
+ position: relative;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+}
+
+.productListPriceInfo{
+  width: 100%;
+  text-decoration: none;
+  text-align: left;
+  
+}
+
+.productListPriceBrand{
+  font-size: 10px;
+  color: gold;
+}
+
+.productListPrice{
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+ }
+
+
+.productListPriceIcon{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.productListPriceIconImage{
+  width: 100%;
+  flex-direction: row;
+}
+
