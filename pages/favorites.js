@@ -21,17 +21,17 @@ export default function login() {
                                 </div>
                                 <div className='productListInfo'>
                                     <div className='productListInfoPrice'>232,50 TL </div>
-                                    <a className='productListButton align-middle'>İLANA GİT</a>
+                                    <a href='xxxxxx' className='productListButton align-middle'>İLANA GİT</a>
                                 </div>
                             </div>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx" className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
                                 </div>
                                 <div className='productListPriceIcon'>C<img src='' className='productListPriceIconImage' /></div>
                             </a>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx"className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
@@ -49,17 +49,17 @@ export default function login() {
                                 </div>
                                 <div className='productListInfo'>
                                     <div className='productListInfoPrice'>232,50 TL </div>
-                                    <a className='productListButton align-middle'>İLANA GİT</a>
+                                    <a href='xxxxxx' className='productListButton align-middle'>İLANA GİT</a>
                                 </div>
                             </div>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx" className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
                                 </div>
                                 <div className='productListPriceIcon'>C<img src='' className='productListPriceIconImage' /></div>
                             </a>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx"className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
@@ -77,17 +77,17 @@ export default function login() {
                                 </div>
                                 <div className='productListInfo'>
                                     <div className='productListInfoPrice'>232,50 TL </div>
-                                    <a className='productListButton align-middle'>İLANA GİT</a>
+                                    <a href='xxxxxx' className='productListButton align-middle'>İLANA GİT</a>
                                 </div>
                             </div>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx" className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
                                 </div>
                                 <div className='productListPriceIcon'>C<img src='' className='productListPriceIconImage' /></div>
                             </a>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx"className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
@@ -105,17 +105,17 @@ export default function login() {
                                 </div>
                                 <div className='productListInfo'>
                                     <div className='productListInfoPrice'>232,50 TL </div>
-                                    <a className='productListButton align-middle'>İLANA GİT</a>
+                                    <a href='xxxxxx' className='productListButton align-middle'>İLANA GİT</a>
                                 </div>
                             </div>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx" className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
                                 </div>
                                 <div className='productListPriceIcon'>C<img src='' className='productListPriceIconImage' /></div>
                             </a>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx"className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
@@ -133,17 +133,17 @@ export default function login() {
                                 </div>
                                 <div className='productListInfo'>
                                     <div className='productListInfoPrice'>232,50 TL </div>
-                                    <a className='productListButton align-middle'>İLANA GİT</a>
+                                    <a href='xxxxxx' className='productListButton align-middle'>İLANA GİT</a>
                                 </div>
                             </div>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx" className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
                                 </div>
                                 <div className='productListPriceIcon'>C<img src='' className='productListPriceIconImage' /></div>
                             </a>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx"className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
@@ -161,17 +161,17 @@ export default function login() {
                                 </div>
                                 <div className='productListInfo'>
                                     <div className='productListInfoPrice'>232,50 TL </div>
-                                    <a className='productListButton align-middle'>İLANA GİT</a>
+                                    <a href='xxxxxx' className='productListButton align-middle'>İLANA GİT</a>
                                 </div>
                             </div>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx" className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
                                 </div>
                                 <div className='productListPriceIcon'>C<img src='' className='productListPriceIconImage' /></div>
                             </a>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx"className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
@@ -189,17 +189,17 @@ export default function login() {
                                 </div>
                                 <div className='productListInfo'>
                                     <div className='productListInfoPrice'>232,50 TL </div>
-                                    <a className='productListButton align-middle'>İLANA GİT</a>
+                                    <a href='xxxxxx' className='productListButton align-middle'>İLANA GİT</a>
                                 </div>
                             </div>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx" className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
                                 </div>
                                 <div className='productListPriceIcon'>C<img src='' className='productListPriceIconImage' /></div>
                             </a>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx"className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
@@ -217,17 +217,17 @@ export default function login() {
                                 </div>
                                 <div className='productListInfo'>
                                     <div className='productListInfoPrice'>232,50 TL </div>
-                                    <a className='productListButton align-middle'>İLANA GİT</a>
+                                    <a href='xxxxxx' className='productListButton align-middle'>İLANA GİT</a>
                                 </div>
                             </div>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx" className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
                                 </div>
                                 <div className='productListPriceIcon'>C<img src='' className='productListPriceIconImage' /></div>
                             </a>
-                            <a className='productListPriceWrapper'>
+                            <a href="xxxx"className='productListPriceWrapper'>
                                 <div className='productListPriceInfo'>
                                     <div className='productListPriceBrand'>Oyuneks</div>
                                     <div className='productListPrice'>232,07 TL</div>
@@ -236,6 +236,7 @@ export default function login() {
                             </a>
                         </div>
                     </div>
+                    
                     
                 </div> 
             </div>
